@@ -1,0 +1,220 @@
+@charset "utf-8";
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #e9e9e9aa;
+}
+#img-1{
+width: 10%;
+float: left;
+}
+header{
+    background-color: #005CA9;
+}
+
+.menu{
+    text-align: center;
+    padding: 20px;
+    
+}
+.menu ul li{
+    display: inline;
+}
+.menu ul li a{
+    text-decoration: none;
+    display: inline-block;
+    padding-left: 10px;
+    color: white;
+}
+
+.menu ul li:hover{
+   border-bottom: white solid 1px;
+   
+  
+}
+
+.container{
+    background-color: #005CA9;
+    width: 413px;
+    height: 700px;
+    border-radius: 12px;
+    margin: 50px 0px 0px 50px;
+    margin-top: 50px;
+    overflow: auto;
+    float: left;
+    padding-left: 30px;
+    
+    
+   
+}
+
+
+
+.itens-img{
+    width: 100px;
+    height: 100px;
+    padding-top: 10px;
+    padding-left: 10px;
+    float: left;
+    padding-right: 10px;
+}
+
+.container-itens{
+    background-color: rgb(255, 255, 255);
+    width: 370px;
+    height: 120px;
+    margin-left: 15px;
+    border-radius: 10px;
+    margin-top: 5px; 
+}
+
+h3{
+   
+    padding-right: 100px;
+    padding-top: 10px;
+}
+h3 a{
+    text-decoration: none;
+    color: black;
+}
+p{
+   padding-left: 40px;
+    
+}
+.text-curso{
+    color: #2692eb;
+    padding-top: 3px;
+}
+
+
+
+
+.section__title {
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+    display: block;
+    color: white;
+
+    
+    
+}
+
+.cont-title{
+    text-align: center;
+   padding-top: 30px;
+   margin-bottom: 20px;
+  
+}
+
+.cont-title input {
+    width: 60%;
+    border: none;
+    background-color: #fefefe;
+    padding: 10px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    outline: none;}
+
+    button{
+        padding: 10px;
+        background-color: white;
+        color: #005CA9;
+        border-radius: 12px;
+        border: none;
+    }
+
+
+    button:hover{
+        background-color: #2692eb;
+        color: white;
+    }
+
+
+
+    #btn-2{
+        padding: 10px;
+        background-color: #005CA9;
+        color: white;
+        border-radius: 12px;
+        border: none; 
+      float: right;
+      margin-top: -30px;
+      margin-right: 10px;
+    }
+
+    #btn-2:hover{
+        background-color: #2692eb;
+        color: white;
+    }
+
+ /*post lado*/
+
+
+ .container-2{
+    margin-left: 35%;
+ }
+.post-alunos{
+    background-color: #ffffff;
+    width: 80%;
+    height: 250px;
+    display: inline-block;
+    margin: 15px;
+    border-radius: 10px;
+    
+}
+
+.post-alunos-2{
+    background-color: #ffffff;
+    width: 80%;
+    height: 475px;
+    display: inline-block;
+    margin: 15px;
+    border-radius: 10px;
+    
+}
+
+    .post-alunos img{
+        width: 150px;
+        border-radius: 100px;
+        margin: 10px 0px 0px 10px;
+
+
+    }
+
+    #title-2{
+        color: black;
+        margin-top: 10px;
+       
+    
+    }
+
+    .title-name{
+        color: #005CA9;
+        margin-left: 10px;
+    }
+    #descri-perfil{
+        float: right;
+        margin-top: -180px;
+        margin-right: 130px;
+    }
+
+    #desc-a{
+        text-align: center;
+        padding-bottom: 30px;
+        margin-top: 20px;
+    }
+
+    #list-cont{
+        margin-left: 35px;
+    }
+   
+  
+
+
+
+
+
+    
